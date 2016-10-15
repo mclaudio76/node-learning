@@ -10,13 +10,13 @@ A simple project with a class, RESTServer, acting as helper to expose some REST 
 You need to install Express Framework, Typescript and needed type definitions.
 
 To install typescript:</p>
-sudo npm install typescript@next -g
+<b>sudo npm install typescript@next -g </b>
 </p>
 To install node.js and Express Typescript type definitions, run inside the folder where you have copied source files 
 the following commands:
 </p>
-typings install env~node@4.0.0 --save --global </p>
-typings install express 
+<b>typings install env~node@4.0.0 --save --global </b> </p>
+<b>typings install express </b>
 
 
 
